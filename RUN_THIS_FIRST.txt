@@ -1,0 +1,11 @@
+تشغيل النسخة:
+
+1) افتح هذا المجلد في Cursor أو VS Code.
+2) افتح Terminal داخل المجلد.
+3) نفذ:
+
+npm install
+npm run dev
+
+ثم افتح:
+http://localhost:3000
