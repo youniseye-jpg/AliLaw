@@ -2779,7 +2779,7 @@ export const messages = {
   "مراسل": "Habarlaşma",
   "مراسلة": "Habar",
   "مراسلة الزبون": "Müşderä habar ýaz",
-  "مراسلة المتجر": "Dükana habar ýaz",
+  "مراسلة المحامي": "Dükana habar ýaz",
   "مراسلة داخل التطبيق": "Programma içindäki habar",
   "مراقبة المخزون": "Ammar gözegçiligi",
   "مرة واحدة لكل زبون": "Her müşderi üçin bir gezek",

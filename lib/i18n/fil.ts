@@ -2779,7 +2779,7 @@ export const messages = {
   "مراسل": "customer",
   "مراسلة": "customer",
   "مراسلة الزبون": "Mensahe sa customer",
-  "مراسلة المتجر": "customer pamagat",
+  "مراسلة المحامي": "customer pamagat",
   "مراسلة داخل التطبيق": "tindahan",
   "مراقبة المخزون": "Pagsubaybay sa imbentaryo",
   "مرة واحدة لكل زبون": "coupon customer",

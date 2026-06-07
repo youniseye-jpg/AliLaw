@@ -2779,7 +2779,7 @@ export const messages = {
   "مراسل": "Berichten",
   "مراسلة": "klant",
   "مراسلة الزبون": "Klant berichten",
-  "مراسلة المتجر": "klant titel",
+  "مراسلة المحامي": "klant titel",
   "مراسلة داخل التطبيق": "winkel",
   "مراقبة المخزون": "Voorraadbewaking",
   "مرة واحدة لكل زبون": "coupon klant",

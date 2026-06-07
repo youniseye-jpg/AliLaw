@@ -2779,7 +2779,7 @@ export const messages = {
   "مراسل": "Mesajlaşma",
   "مراسلة": "müşteri",
   "مراسلة الزبون": "Müşteriye mesaj gönder",
-  "مراسلة المتجر": "müşteri başlık",
+  "مراسلة المحامي": "müşteri başlık",
   "مراسلة داخل التطبيق": "mağaza",
   "مراقبة المخزون": "Stok takibi",
   "مرة واحدة لكل زبون": "kupon müşteri",

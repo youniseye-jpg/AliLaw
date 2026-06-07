@@ -2779,7 +2779,7 @@ export const messages = {
   "مراسل": "Messenger",
   "مراسلة": "Chat",
   "مراسلة الزبون": "Message customer",
-  "مراسلة المتجر": "Message the store",
+  "مراسلة المحامي": "Message the store",
   "مراسلة داخل التطبيق": "In-app message",
   "مراقبة المخزون": "Inventory Monitoring",
   "مرة واحدة لكل زبون": "Once per customer",
