@@ -1,19 +1,19 @@
 {
-  "name": "ALI LAWYER",
-  "short_name": "ALI LAW",
+  "name": " المحامي علي محمود",
+  "short_name": " المحامي علي محمود",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0F766E",
   "icons": [
     {
-      "src": "/ali-icon-192-v2.png",
+      "src": "/ali-icon-1921-v2.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/ali-icon-512-v2.png",
+      "src": "/ali-icon-5121-v2.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
